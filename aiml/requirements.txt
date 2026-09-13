@@ -1,0 +1,9 @@
+scikit-learn>=1.4.0
+torch>=2.2.0
+transformers>=4.38.0
+numpy>=1.26.0
+librosa>=0.10.1
+shap>=0.45.0
+lime>=0.2.01
+pandas>=2.2.0
+joblib>=1.3.2
